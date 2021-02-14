@@ -1,0 +1,138 @@
+@media screen and (min-width:768px) and (max-width:960px){
+ 
+    .a{
+       background-color: rgb(63, 4, 4);
+       vertical-align: middle;
+       text-align: center;
+       display: table-cell;
+       
+    }
+    .b{
+        background-color: rgb(109, 6, 6);
+        vertical-align: middle;
+        text-align: center;
+        
+    }
+    .c{
+        background-color: rgb(216, 10, 10);
+        vertical-align: middle;
+        text-align: center;
+        display: table-cell;
+    
+    }
+    .d{
+         background:  rgb(207, 28, 28);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    }
+    .e{
+
+         background:  rgb(214, 63, 63);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    
+    }
+    .f{
+         background: rgb(224, 139, 139);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    
+    }
+    .g{
+         background: rgb(228, 181, 181);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    
+    }
+    .h{
+         background: rgb(243, 204, 204);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    
+    }
+    .i{
+         background: rgb(240, 194, 194);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+    }
+    }
+    
+    @media screen and (min-width:480px) and (max-width:767px){
+     
+        .a{
+        
+           background-color: rgb(5, 5, 119);
+           vertical-align: middle;
+           text-align: center;
+           display: table-cell;
+           
+        }
+        .b{
+          
+            background-color: rgb(22, 22, 236);
+            vertical-align: middle;
+            text-align: center;
+            
+        }
+        .c{
+          
+            background-color: rgb(41, 41, 131);
+            vertical-align: middle;
+            text-align: center;
+           
+        
+        }
+        .d{
+           
+         
+             background:  rgb(84, 84, 241);
+             vertical-align: middle;
+             text-align: center;
+            
+        }
+        .e{
+             background: rgb(68, 68, 148);
+             vertical-align: middle;
+             text-align: center;
+            display: inline-block;
+        
+        }
+        .f{
+             background: rgb(100, 100, 141);
+             vertical-align: middle;
+             text-align: center;
+             display: table-cell;
+        
+        }
+        .g{
+             background:  rgb(70, 70, 90);
+             vertical-align: middle;
+             text-align: center;
+             display:inline-block;
+        
+        }
+        .h{
+             background: rgb(181, 181, 236);
+             vertical-align: middle;
+             text-align: center;
+             display: table-cell;
+        
+        }
+        .i{
+            float: left;
+             width: 480px;
+             height: 0px;
+             background: rgb(122, 122, 151);
+             vertical-align: middle;
+             text-align: center;
+             display: table-cell;
+        }
+        }
+    
+    
