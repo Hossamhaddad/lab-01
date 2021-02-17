@@ -1,72 +1,69 @@
 
 @media screen and (min-width:960px) {}
  
-     .a{
+     .child:nth-child(1){
         background-color: rgb(63, 4, 4);
         vertical-align:middle;
         text-align: center;
-        display: table-cell;
         border: black solid 1px ;
      }
-     .b{
+     .child:nth-child(2) {
          background-color: rgb(109, 6, 6);
          vertical-align: middle;
          text-align: center;
          border: black solid 1px ;
          
      }
-     .c{
+     .child:nth-child(3) {
          background-color: rgb(216, 10, 10);
          vertical-align: middle;
          text-align: center;
-         display: table-cell;
+       
          border: black solid 1px ;
      
      }
-     .d{
+     .child:nth-child(4) {
           background:  rgb(207, 28, 28);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
           border: black solid 1px ;
      }
-     .e{
+     .child:nth-child(5) {
  
           background:  rgb(214, 63, 63);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
           border: black solid 1px ;
      
      }
-     .f{
+     .child:nth-child(6) {
           background: rgb(224, 139, 139);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
+     
           border: black solid 1px ;
      
      }
-     .g{
+     .child:nth-child(7) {
           background: rgb(228, 181, 181);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
+       
           border: black solid 1px ;
      
      }
-     .h{
+     .child:nth-child(8) {
           background: rgb(243, 204, 204);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
+         
           border: black solid 1px ;
      }
-     .i{
+     .child:nth-child(9) {
           background: rgb(240, 194, 194);
           vertical-align: middle;
           text-align: center;
-          display: table-cell;
+
           border: black solid 1px ;
      }
      }
@@ -140,24 +137,24 @@
     }
     }
     
-    @media screen and (min-width:480px) and (max-width:767px){
+    @media screen and (min-width:650px) and (max-width:767px){
      
-        .a{
+     .child:nth-child(1) {
         
            background-color: rgb(5, 5, 119);
            vertical-align: middle;
            text-align: center;
-           display: table-cell;
+
            border: black solid 1px ;
         }
-        .b{
+        .child:nth-child(2) {
           
             background-color: rgb(22, 22, 236);
             vertical-align: middle;
             text-align: center;
             border: black solid 1px ;
         }
-        .c{
+        .child:nth-child(3) {
           
             background-color: rgb(41, 41, 131);
             vertical-align: middle;
@@ -165,7 +162,7 @@
             border: black solid 1px ;
         
         }
-        .d{
+        .child:nth-child(4) {
            
          
              background:  rgb(84, 84, 241);
@@ -173,43 +170,115 @@
              text-align: center;
              border: black solid 1px ;
         }
-        .e{
+        .child:nth-child(5) {
              background: rgb(68, 68, 148);
              vertical-align: middle;
              text-align: center;
-            display: inline-block;
+           
             border: black solid 1px ;
         }
-        .f{
+        .child:nth-child(6) {
              background: rgb(100, 100, 141);
              vertical-align: middle;
              text-align: center;
-             display: table-cell;
+            
              border: black solid 1px ;
         }
-        .g{
+        .child:nth-child(7) {
              background:  rgb(70, 70, 90);
              vertical-align: middle;
              text-align: center;
-             display:inline-block;
+          
              border: black solid 1px ;
         }
-        .h{
+        .child:nth-child(8) {
              background: rgb(181, 181, 236);
              vertical-align: middle;
              text-align: center;
-             display: table-cell;
+            
              border: black solid 1px ;
         }
-        .i{
+        .child:nth-child(9) {
             float: left;
 
              background: rgb(122, 122, 151);
              vertical-align: middle;
              text-align: center;
-             display: table-cell;
+            
              border: black solid 1px ;
         }
         }
     
-    
+        @media screen and (min-width:0px) and (max-width:650px){
+     
+          .child:nth-child(1) {
+             
+               background: rgb(46, 233, 46);
+                vertical-align: middle;
+                text-align: center;
+     
+                border: black solid 1px ;
+             }
+             .child:nth-child(2) {
+               
+               background: rgb(23, 173, 23);
+                 vertical-align: middle;
+                 text-align: center;
+                 border: black solid 1px ;
+             }
+             .child:nth-child(3) {
+               
+               background: rgb(79, 180, 79);
+                 vertical-align: middle;
+                 text-align: center;
+                 border: black solid 1px ;
+             
+             }
+             .child:nth-child(4) {
+                
+              
+               background: rgb(60, 94, 60);
+                  vertical-align: middle;
+                  text-align: center;
+                  border: black solid 1px ;
+             }
+             .child:nth-child(5) {
+               background: rgb(26, 54, 26);
+                  vertical-align: middle;
+                  text-align: center;
+                
+                 border: black solid 1px ;
+             }
+             .child:nth-child(6) {
+               background: rgb(65, 110, 65);
+                  vertical-align: middle;
+                  text-align: center;
+                 
+                  border: black solid 1px ;
+             }
+             .child:nth-child(7) {
+               background: rgb(157, 221, 157);
+                  vertical-align: middle;
+                  text-align: center;
+               
+                  border: black solid 1px ;
+             }
+             .child:nth-child(8) {
+              background: rgb(105, 216, 105);
+                  vertical-align: middle;
+                  text-align: center;
+                 
+                  border: black solid 1px ;
+             }
+             .child:nth-child(9) {
+                 float: left;
+     
+                  background: green;
+                  vertical-align: middle;
+                  text-align: center;
+                 
+                  border: black solid 1px ;
+             }
+             }
+         
+        
