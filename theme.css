@@ -1,3 +1,78 @@
+
+@media screen and (min-width:960px) {}
+ 
+     .a{
+        background-color: rgb(63, 4, 4);
+        vertical-align:middle;
+        text-align: center;
+        display: table-cell;
+        border: black solid 1px ;
+     }
+     .b{
+         background-color: rgb(109, 6, 6);
+         vertical-align: middle;
+         text-align: center;
+         border: black solid 1px ;
+         
+     }
+     .c{
+         background-color: rgb(216, 10, 10);
+         vertical-align: middle;
+         text-align: center;
+         display: table-cell;
+         border: black solid 1px ;
+     
+     }
+     .d{
+          background:  rgb(207, 28, 28);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     }
+     .e{
+ 
+          background:  rgb(214, 63, 63);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     
+     }
+     .f{
+          background: rgb(224, 139, 139);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     
+     }
+     .g{
+          background: rgb(228, 181, 181);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     
+     }
+     .h{
+          background: rgb(243, 204, 204);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     }
+     .i{
+          background: rgb(240, 194, 194);
+          vertical-align: middle;
+          text-align: center;
+          display: table-cell;
+          border: black solid 1px ;
+     }
+     }
+
+
+
 @media screen and (min-width:768px) and (max-width:960px){
  
     .a{
@@ -5,26 +80,27 @@
        vertical-align: middle;
        text-align: center;
        display: table-cell;
-       
+       border: black solid 1px ;
     }
     .b{
         background-color: rgb(109, 6, 6);
         vertical-align: middle;
         text-align: center;
-        
+        border: black solid 1px ;
     }
     .c{
         background-color: rgb(216, 10, 10);
         vertical-align: middle;
         text-align: center;
         display: table-cell;
-    
+        border: black solid 1px ;
     }
     .d{
          background:  rgb(207, 28, 28);
          vertical-align: middle;
          text-align: center;
          display: table-cell;
+         border: black solid 1px ;
     }
     .e{
 
@@ -32,34 +108,35 @@
          vertical-align: middle;
          text-align: center;
          display: table-cell;
-    
+         border: black solid 1px ;
     }
     .f{
          background: rgb(224, 139, 139);
          vertical-align: middle;
          text-align: center;
          display: table-cell;
-    
+         border: black solid 1px ;
     }
     .g{
          background: rgb(228, 181, 181);
          vertical-align: middle;
          text-align: center;
          display: table-cell;
-    
+         border: black solid 1px ;
     }
     .h{
          background: rgb(243, 204, 204);
          vertical-align: middle;
          text-align: center;
          display: table-cell;
-    
+         border: black solid 1px ;
     }
     .i{
          background: rgb(240, 194, 194);
          vertical-align: middle;
          text-align: center;
          display: table-cell;
+         border: black solid 1px ;
     }
     }
     
@@ -71,21 +148,21 @@
            vertical-align: middle;
            text-align: center;
            display: table-cell;
-           
+           border: black solid 1px ;
         }
         .b{
           
             background-color: rgb(22, 22, 236);
             vertical-align: middle;
             text-align: center;
-            
+            border: black solid 1px ;
         }
         .c{
           
             background-color: rgb(41, 41, 131);
             vertical-align: middle;
             text-align: center;
-           
+            border: black solid 1px ;
         
         }
         .d{
@@ -94,44 +171,44 @@
              background:  rgb(84, 84, 241);
              vertical-align: middle;
              text-align: center;
-            
+             border: black solid 1px ;
         }
         .e{
              background: rgb(68, 68, 148);
              vertical-align: middle;
              text-align: center;
             display: inline-block;
-        
+            border: black solid 1px ;
         }
         .f{
              background: rgb(100, 100, 141);
              vertical-align: middle;
              text-align: center;
              display: table-cell;
-        
+             border: black solid 1px ;
         }
         .g{
              background:  rgb(70, 70, 90);
              vertical-align: middle;
              text-align: center;
              display:inline-block;
-        
+             border: black solid 1px ;
         }
         .h{
              background: rgb(181, 181, 236);
              vertical-align: middle;
              text-align: center;
              display: table-cell;
-        
+             border: black solid 1px ;
         }
         .i{
             float: left;
-             width: 480px;
-             height: 0px;
+          
              background: rgb(122, 122, 151);
              vertical-align: middle;
              text-align: center;
              display: table-cell;
+             border: black solid 1px ;
         }
         }
     
